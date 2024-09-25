@@ -1,1 +1,3 @@
-# merna-static-website-on-azure-template
+# Static Dice Roller
+# Credits
+## Eric Pougue
